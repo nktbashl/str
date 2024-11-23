@@ -4,3 +4,5 @@ print(example [5])
 print(example [5:])
 print(example [::-1])
 print(example [1::2])
+name = 'Urban'
+print(name [2:])
